@@ -57,7 +57,7 @@ A simple login system built with **Python Flask**. The goal of this task was to 
 
 **CodeAlpha**  
 Cybersecurity Internship (Task 3)  
-✅ [LinkedIn Profile](https://www.linkedin.com/in/mohamed-thoufik)  
+✅ [LinkedIn Profile](www.linkedin.com/in/mohamed-thoufik-444554308)  
 📁 GitHub: [CodeAlpha_SecureCodingReview](https://github.com/mohamedthoufik003/CodeAlpha_SecureCodingReview)
 
 ---
