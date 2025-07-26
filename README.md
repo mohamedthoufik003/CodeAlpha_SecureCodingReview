@@ -38,8 +38,9 @@ A simple login system built with **Python Flask**. The goal of this task was to 
 
 ## 📷 Screenshots & Demo
 
-> ![Login UI](./screenshots/login_ui.png)
-> Demo video available in [Google Drive](https://drive.google.com/your-demo-link)
+> https://drive.google.com/file/d/1iTEfI2Ixh44_PZLZt24eyJZMu2Vo1P2q/view?usp=drive_link
+
+> https://drive.google.com/file/d/1JznjZvrHwgZG1tjv9Pc9rW6GPVXILwPm/view?usp=drive_link
 
 ---
 
